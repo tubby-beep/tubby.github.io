@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Graphic Design Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="portfolio">
+      <div class="portfolio-item">
+        <a href="portfolio1.html">
+          <img src="images/project1.jpg" alt="Project 1">
+          <span>Project 1</span>
+        </a>
+      </div>
+      <div class="portfolio-item">
+        <a href="portfolio2.html">
+          <img src="images/project2.jpg" alt="Project 2">
+          <span>Project 2</span>
+        </a>
+      </div>
+      <!-- Add more portfolio items as needed -->
+    </section>
+  </main>
+</body>
+</html>
